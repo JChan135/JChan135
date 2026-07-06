@@ -1,4 +1,4 @@
-## Hi, I'm Justin! 👋
+## Hi there! 👋
 
 <!--
 **JChan135/JChan135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +30,4 @@ Aspiring Data Scientist/Data Analyst. Currently a data science intern at Constel
 
 ### 📫 Connect with Me
 - **LinkedIn:** linkedin.com/in/justindchan
-- **Email: justindchan01@gmail.com 
+- **Email:** justindchan01@gmail.com 
