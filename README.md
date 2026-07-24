@@ -20,13 +20,12 @@ Aspiring Data Scientist/Data Analyst. Currently a data science intern at Constel
  - Statistics and Data Science at Rice University
  - Reach me: justindchan01@gmail.com
 
+### Background
+My background includes a mix of industry, clinical, and academic environments. I’ve engineered risk models for rare-event clinical datasets at MD Anderson Cancer Center, provided data science consulting for local nonprofits through Biokind Analytics, and published precision optics research during an internship at the Laboratory for Laser Energetics. No matter the industry, my goal is to bring strong analytical thinking to the table and help teams build data-driven solutions.
+
 ### Technical Skills
  - Languages: Python, SQL, R, MATLAB
  - Tools: Snowflake, Git/Github, Jupyter Notebook, VS Code, Excel
-
-### 📂 Featured Projects
-| Project | Description | Tech |
-|--------|-------------|------|
 
 ### 📫 Connect with Me
 - **LinkedIn:** linkedin.com/in/justindchan
