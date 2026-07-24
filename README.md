@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 # Justin Chan
 
-Aspiring Data Scientist/Data Analyst. Currently a data science intern at Constellation Brands and a AI/ML Fellow with Break Through Tech.
+Aspiring Data Scientist/Data Analyst. Currently a Data Science Intern at Constellation Brands and a AI/ML Fellow with Break Through Tech.
  - Statistics and Data Science at Rice University
- - Reach me: justindchan01@gmail.com
 
 ### Background
 My background includes a mix of industry, clinical, and academic environments. I’ve engineered risk models for rare-event clinical datasets at MD Anderson Cancer Center, provided data science consulting for local nonprofits through Biokind Analytics, and published precision optics research during an internship at the Laboratory for Laser Energetics. No matter the industry, my goal is to bring strong analytical thinking to the table and help teams build data-driven solutions.
