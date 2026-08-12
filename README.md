@@ -25,7 +25,7 @@ My background spans industry, clinical, and academic data environments. I’ve d
 
 ### Featured Projects
 
-#### [Predicting U.S. County-Level Cancer Rates](https://github.com/JChan135/cancer-rate-prediction) *(2nd Place Winner)*
+#### [Predicting U.S. County-Level Cancer Rates](https://github.com/JChan135/cancer-rate-prediction) *(2nd Place Rice Data Science Club Winner)*
 * Engineered an end-to-end Machine Learning pipeline evaluating socioeconomic and demographic drivers of cancer incidence across 5,000+ U.S. counties using ACS Census and CDC datasets.
 * Trained a Random Forest Regressor achieving an $R^2$ of **0.5056** (explaining ~50.6% of variance) with an MAE of 31.1 cases per 100k population.
 * Extracted feature importances revealing county Hispanic population percentage as the primary inverse predictor of cancer incidence.
