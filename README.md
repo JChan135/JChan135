@@ -19,6 +19,11 @@ Currently a Data Science Intern at Constellation Brands & AI/ML Fellow with Brea
 
 ---
 
+### Background
+My background spans industry, clinical, and academic data environments. I’ve developed pricing algorithms and statistical pipelines at Constellation Brands, engineered risk models for rare-event clinical datasets at MD Anderson Cancer Center, provided data science consulting for local nonprofits through Biokind Analytics, and published precision optics research during an internship at the Laboratory for Laser Energetics. Across all domains, my goal is to apply rigorous analytical thinking to help teams build impactful, data-driven solutions.
+
+---
+
 ### Featured Projects
 
 #### [Predicting U.S. County-Level Cancer Rates](https://github.com/JChan135/cancer-rate-prediction) *(2nd Place Winner)*
@@ -29,11 +34,6 @@ Currently a Data Science Intern at Constellation Brands & AI/ML Fellow with Brea
 
 > **Note on Data Privacy & Confidentiality:** 
 > Due to Non-Disclosure Agreements (NDAs) and corporate IP/data privacy policies, proprietary code and datasets from my industry work at **Constellation Brands**, clinical modeling at **MD Anderson Cancer Center**, and consulting projects with **Biokind Analytics** cannot be made publicly accessible on GitHub. Public repositories on this profile highlight open-source research and standalone analytical work.
-
----
-
-### Background
-My background spans industry, clinical, and academic data environments. I’ve developed pricing algorithms and statistical pipelines at Constellation Brands, engineered risk models for rare-event clinical datasets at MD Anderson Cancer Center, provided data science consulting for local nonprofits through Biokind Analytics, and published precision optics research during an internship at the Laboratory for Laser Energetics. Across all domains, my goal is to apply rigorous analytical thinking to help teams build impactful, data-driven solutions.
 
 ---
 
