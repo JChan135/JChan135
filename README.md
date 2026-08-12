@@ -23,7 +23,7 @@ Currently a Data Science Intern at Constellation Brands & AI/ML Fellow with Brea
 
 ### Featured Projects
 
-#### [Predicting U.S. County-Level Cancer Rates](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME) *(2nd Place Winner)*
+#### [Predicting U.S. County-Level Cancer Rates](https://github.com/JChan135/county-cancer-rate-prediction) *(2nd Place Winner)*
 * Engineered an end-to-end Machine Learning pipeline evaluating socioeconomic and demographic drivers of cancer incidence across 5,000+ U.S. counties using ACS Census and CDC datasets.
 * Trained a Random Forest Regressor achieving an $R^2$ of **0.5056** (explaining ~50.6% of variance) with an MAE of 31.1 cases per 100k population.
 * Extracted feature importances revealing county Hispanic population percentage as the primary inverse predictor of cancer incidence.
