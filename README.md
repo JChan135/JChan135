@@ -33,7 +33,7 @@ Currently a Data Science Intern at Constellation Brands & AI/ML Fellow with Brea
 ---
 
 ### Background
-My background spans industry, clinical, and academic data environments. I’ve engineered risk models for rare-event clinical datasets at MD Anderson Cancer Center, provided data science consulting for local nonprofits through Biokind Analytics, and published precision optics research during an internship at the Laboratory for Laser Energetics. Across all domains, my goal is to apply rigorous analytical thinking to help teams build impactful, data-driven solutions.
+My background spans industry, clinical, and academic data environments. I’ve developed pricing algorithms and statistical pipelines at Constellation Brands, engineered risk models for rare-event clinical datasets at MD Anderson Cancer Center, provided data science consulting for local nonprofits through Biokind Analytics, and published precision optics research during an internship at the Laboratory for Laser Energetics. Across all domains, my goal is to apply rigorous analytical thinking to help teams build impactful, data-driven solutions.
 
 ---
 
