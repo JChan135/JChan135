@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 # Justin Chan
 
 Aspiring Data Scientist / Data Analyst | Statistics & Data Science at Rice University
-Currently a Data Science Intern at Constellation Brands & AI/ML Fellow with Break Through Tech AI.
 
 ---
 
